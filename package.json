@@ -1,0 +1,14 @@
+{
+  "name": "basic-variables",
+  "version": "1.0.0",
+  "description": "Code Shorts: basics-variables",
+  "main": "basicVariables.js",
+  "scripts": {
+    "test": "mocha test.basicVariables.js --diff --slow 0 --timeout 20000"
+  },
+  "author": "Zack Shorts",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
